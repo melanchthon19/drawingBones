@@ -1,0 +1,1394 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &283953026565051064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7347000989497613201}
+  - component: {fileID: 5398031857352124904}
+  m_Layer: 0
+  m_Name: Mossy2Palette
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7347000989497613201
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283953026565051064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6487858058407381575}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!156049354 &5398031857352124904
+Grid:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283953026565051064}
+  m_Enabled: 1
+  m_CellSize: {x: 1, y: 1, z: 0}
+  m_CellGap: {x: 0, y: 0, z: 0}
+  m_CellLayout: 0
+  m_CellSwizzle: 0
+--- !u!1 &349755086306371900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6487858058407381575}
+  - component: {fileID: 8948329266693322814}
+  - component: {fileID: 6694341699715922087}
+  m_Layer: 0
+  m_Name: Layer1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6487858058407381575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349755086306371900}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7347000989497613201}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1839735485 &8948329266693322814
+Tilemap:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349755086306371900}
+  m_Enabled: 1
+  m_Tiles: {}
+  m_AnimatedTiles: {}
+  m_TileAssetArray:
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  m_TileSpriteArray:
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  m_TileMatrixArray:
+  - m_RefCount: 0
+    m_Data:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0.007810566
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0.0078124697
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  - m_RefCount: 0
+    m_Data:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_TileColorArray:
+  - m_RefCount: 0
+    m_Data: {r: 0.8299975, g: 0.46470413, b: 0.56272787, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.71278334, g: 0.3090475, b: 0.37457404, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8967144, g: 0.6205014, b: 0.6504352, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.80368215, g: 0.36144555, b: 0.4782972, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.95327586, g: 0.49471495, b: 0.6014832, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.98530596, g: 0.61805934, b: 0.6697237, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9993345, g: 0.53773624, b: 0.60619926, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7534332, g: 0.31405848, b: 0.31874102, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.89592654, g: 0.4841248, b: 0.60775846, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.99217206, g: 0.42464837, b: 0.5864477, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.887496, g: 0.40870285, b: 0.50352967, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7818868, g: 0.3434531, b: 0.38810822, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7561925, g: 0.4017722, b: 0.4685929, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9028285, g: 0.5782406, b: 0.5879105, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8780602, g: 0.5894538, b: 0.6735254, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.954194, g: 0.56494766, b: 0.6478281, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8267875, g: 0.4824039, b: 0.56752056, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.84335005, g: 0.5886791, b: 0.6222777, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.78099984, g: 0.50388825, b: 0.5409304, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7587082, g: 0.42357472, b: 0.50098205, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.86547124, g: 0.5237612, b: 0.5445255, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9796202, g: 0.5717784, b: 0.681208, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.782863, g: 0.36675698, b: 0.37080145, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9369348, g: 0.4758182, b: 0.59995025, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7933006, g: 0.4607873, b: 0.53473055, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8649413, g: 0.56183434, b: 0.5708208, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.85560113, g: 0.50573856, b: 0.5387229, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.72411937, g: 0.3954155, b: 0.40869108, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.82461077, g: 0.37147135, b: 0.50985146, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9602437, g: 0.59809315, b: 0.62437075, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8243925, g: 0.56199056, b: 0.6210541, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8307818, g: 0.5344614, b: 0.55801976, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.74408966, g: 0.34696463, b: 0.38231075, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7554859, g: 0.338178, b: 0.47288784, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8035075, g: 0.37477857, b: 0.47258648, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8709954, g: 0.60890484, b: 0.64479554, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.88239074, g: 0.5186694, b: 0.55308586, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.76414037, g: 0.4269955, b: 0.51166093, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.95886254, g: 0.5690217, b: 0.6944261, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9748856, g: 0.45901173, b: 0.56242526, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.72384673, g: 0.49575976, b: 0.5495518, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.99594545, g: 0.6652275, b: 0.7165806, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.97970957, g: 0.6573986, b: 0.68732166, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.79108125, g: 0.49641985, b: 0.5013586, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7850726, g: 0.32165205, b: 0.32925892, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9541066, g: 0.5999407, b: 0.62177384, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8550963, g: 0.34670943, b: 0.42333114, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9429333, g: 0.62340534, b: 0.7151268, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.94803196, g: 0.6103139, b: 0.6311449, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.91590387, g: 0.49803126, b: 0.6214655, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.88303685, g: 0.53111017, b: 0.54437786, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7569358, g: 0.31365535, b: 0.45036077, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.82596344, g: 0.45802626, b: 0.5705302, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.870719, g: 0.35492846, b: 0.4702806, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8577668, g: 0.49893802, b: 0.5150566, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.71250045, g: 0.38705656, b: 0.47202384, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.72752726, g: 0.30073574, b: 0.3614959, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.90850884, g: 0.36909145, b: 0.54010963, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.72683877, g: 0.3322061, b: 0.39290476, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8116556, g: 0.5124885, b: 0.6066578, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7485271, g: 0.3677298, b: 0.47137126, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.97330385, g: 0.61480445, b: 0.6170825, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.94503146, g: 0.66031307, b: 0.6963855, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7842912, g: 0.34510958, b: 0.3565993, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.98191786, g: 0.52169335, b: 0.58080107, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7426942, g: 0.49407133, b: 0.505542, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8369357, g: 0.5716628, b: 0.5738248, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9018716, g: 0.38138798, b: 0.5142742, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8976054, g: 0.57461566, b: 0.59232414, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8671167, g: 0.43098727, b: 0.51821554, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9982085, g: 0.6308905, b: 0.63272923, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7341347, g: 0.4766331, b: 0.4855178, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7502115, g: 0.41672677, b: 0.4486539, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8154605, g: 0.42709127, b: 0.46983507, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8971325, g: 0.59411144, b: 0.63522613, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7366251, g: 0.30321327, b: 0.43260035, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8358226, g: 0.5484929, b: 0.5518617, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7100669, g: 0.4611605, b: 0.515323, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8741303, g: 0.565916, b: 0.62126166, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8616099, g: 0.4632036, b: 0.5563253, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.90740573, g: 0.58285767, b: 0.64767313, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.88555837, g: 0.5428594, b: 0.6490629, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.89311576, g: 0.38396743, b: 0.5155879, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.96617854, g: 0.5390789, b: 0.645318, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7130232, g: 0.41681913, b: 0.46020782, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.854154, g: 0.4143164, b: 0.45594084, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.87796885, g: 0.45073202, b: 0.5896371, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7693484, g: 0.38924682, b: 0.42550865, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8572504, g: 0.49509695, b: 0.539024, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7688432, g: 0.50445485, b: 0.5393884, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7790429, g: 0.43751392, b: 0.52701455, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9493623, g: 0.57423127, b: 0.588682, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9952609, g: 0.5815292, b: 0.7002393, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7252146, g: 0.5068378, b: 0.5691809, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.91937995, g: 0.44521385, b: 0.4781311, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7788446, g: 0.36598513, b: 0.48711565, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8735985, g: 0.48578545, b: 0.578413, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8949782, g: 0.5303759, b: 0.6227758, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7839462, g: 0.364652, b: 0.47780266, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.98160964, g: 0.5266172, b: 0.61382776, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.82110476, g: 0.55667585, b: 0.60817534, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8620488, g: 0.46898717, b: 0.54585636, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8627528, g: 0.3808232, b: 0.40520358, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.70061135, g: 0.38219932, b: 0.4746466, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.78290665, g: 0.32381395, b: 0.41682634, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9355807, g: 0.38970372, b: 0.466027, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.92412776, g: 0.47298554, b: 0.4880182, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.824227, g: 0.37677407, b: 0.40708965, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9737741, g: 0.5634766, b: 0.64039254, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7169405, g: 0.385051, b: 0.4357068, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9364771, g: 0.48699066, b: 0.5784872, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.916284, g: 0.61084294, b: 0.6699738, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8830516, g: 0.44247445, b: 0.4497549, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.99464375, g: 0.5493334, b: 0.54998976, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7130003, g: 0.42733976, b: 0.4303607, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7251345, g: 0.32799044, b: 0.34667778, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.74291664, g: 0.3703399, b: 0.37942642, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8939838, g: 0.5873434, b: 0.6667851, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.99585533, g: 0.48691475, b: 0.490513, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8903773, g: 0.56496406, b: 0.63214713, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.73974895, g: 0.34968483, b: 0.39885968, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7849075, g: 0.38523993, b: 0.42558074, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7407657, g: 0.46563002, b: 0.5348613, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8548313, g: 0.43648288, b: 0.5381236, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7207682, g: 0.381505, b: 0.46481082, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7894913, g: 0.46005946, b: 0.48826084, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7490424, g: 0.5012418, b: 0.5217609, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9260056, g: 0.45425782, b: 0.53965867, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8168923, g: 0.41183087, b: 0.44371387, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.80240947, g: 0.36851594, b: 0.4228805, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9442332, g: 0.5804414, b: 0.5863553, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7591409, g: 0.45858836, b: 0.47366133, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8855094, g: 0.44076625, b: 0.5313049, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8944526, g: 0.47168934, b: 0.54415846, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.73180085, g: 0.37307096, b: 0.42627066, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8158794, g: 0.37050232, b: 0.5076588, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9723454, g: 0.61551255, b: 0.6200983, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9918435, g: 0.62487465, b: 0.6916959, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7799536, g: 0.44907475, b: 0.5486294, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.71736014, g: 0.30689865, b: 0.43168065, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7617924, g: 0.33606133, b: 0.47023973, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9526679, g: 0.41030207, b: 0.56914145, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8853047, g: 0.59197134, b: 0.596699, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8516969, g: 0.37005976, b: 0.45386314, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7713703, g: 0.5108077, b: 0.5396688, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7242128, g: 0.38831633, b: 0.48627698, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.76802534, g: 0.46568266, b: 0.48624364, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.84844667, g: 0.48346883, b: 0.5390034, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7206005, g: 0.32423156, b: 0.4552083, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7899977, g: 0.49581394, b: 0.5099137, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.91181463, g: 0.5644467, b: 0.588871, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7255704, g: 0.40421894, b: 0.40435165, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9846421, g: 0.48941082, b: 0.6272681, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8095866, g: 0.5329219, b: 0.5724804, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9044259, g: 0.44768825, b: 0.5316032, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7881117, g: 0.36511472, b: 0.4689837, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.71387, g: 0.399816, b: 0.47733784, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8877038, g: 0.40716448, b: 0.5031957, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9044924, g: 0.56804293, b: 0.6276731, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7186193, g: 0.37116095, b: 0.48033896, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8846901, g: 0.46069178, b: 0.59453857, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8255415, g: 0.34510595, b: 0.46092904, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.801799, g: 0.3553069, b: 0.48648793, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.71263254, g: 0.4085412, b: 0.45952654, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.83202237, g: 0.40629956, b: 0.4302743, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.957936, g: 0.4331758, b: 0.51356214, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8121266, g: 0.4195933, b: 0.49459222, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.75058824, g: 0.45434874, b: 0.47081575, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.90100706, g: 0.4178656, b: 0.52652746, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7457628, g: 0.49677667, b: 0.5382253, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8849177, g: 0.6050778, b: 0.6975792, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.85335565, g: 0.48837447, b: 0.5176363, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.99430984, g: 0.60280776, b: 0.68159366, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9751026, g: 0.43495277, b: 0.44464308, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9472699, g: 0.4315051, b: 0.59891415, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9984625, g: 0.47869247, b: 0.48638016, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.71715605, g: 0.40317118, b: 0.45039845, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.7830665, g: 0.5314647, b: 0.6022835, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9043884, g: 0.5168965, b: 0.5936431, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.96240556, g: 0.4323764, b: 0.57427186, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.93414044, g: 0.43449888, b: 0.51502633, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9427599, g: 0.63964665, b: 0.73539805, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.949181, g: 0.64121825, b: 0.71773493, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.80062747, g: 0.36441928, b: 0.42732024, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9289068, g: 0.5506778, b: 0.5958077, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.93116117, g: 0.5667342, b: 0.61176556, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8416608, g: 0.42424977, b: 0.43754783, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8604467, g: 0.50106144, b: 0.59502727, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.79856086, g: 0.43098032, b: 0.5096342, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.91508657, g: 0.63983566, b: 0.72809607, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.9062626, g: 0.5862092, b: 0.6188068, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.71163285, g: 0.32029238, b: 0.326553, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.86007047, g: 0.45799193, b: 0.49238583, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.89239466, g: 0.6154173, b: 0.6934609, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8876806, g: 0.3759841, b: 0.49346325, a: 1}
+  - m_RefCount: 0
+    m_Data: {r: 0.8017764, g: 0.375372, b: 0.40130168, a: 1}
+  m_TileObjectToInstantiateArray: []
+  m_AnimationFrameRate: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Origin: {x: -1, y: -13, z: 0}
+  m_Size: {x: 14, y: 14, z: 1}
+  m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
+  m_TileOrientation: 0
+  m_TileOrientationMatrix:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+--- !u!483693784 &6694341699715922087
+TilemapRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 349755086306371900}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 0
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_ChunkSize: {x: 32, y: 32, z: 32}
+  m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
+  m_MaxChunkCount: 16
+  m_MaxFrameAge: 16
+  m_SortOrder: 0
+  m_Mode: 0
+  m_DetectChunkCullingBounds: 0
+  m_MaskInteraction: 0
+--- !u!114 &5619467087691752243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12395, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Palette Settings
+  m_EditorClassIdentifier: 
+  cellSizing: 0
+  m_TransparencySortMode: 0
+  m_TransparencySortAxis: {x: 0, y: 0, z: 1}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Weapon
+  - Enemy
+  - Bullet
+  - Exit
+  - Bounce
+  - Ground
+  - Background
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ladder
+  - Background
+  - Player
+  - Bounce
+  - Enemies
+  - Objects
+  - Bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 287003073
+    locked: 0
+  - name: Platform
+    uniqueID: 1337837461
+    locked: 0
+  - name: Enemies
+    uniqueID: 3855239955
+    locked: 0
+  - name: Player
+    uniqueID: 1540875435
+    locked: 0
+  - name: UI
+    uniqueID: 2105608315
+    locked: 0
